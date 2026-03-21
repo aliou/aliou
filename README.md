@@ -3,6 +3,7 @@ Hey, I'm Aliou. I'm a developer based in France. I run [General Dexterity](https
 ## Pi
 
 - [pi-harness](https://github.com/aliou/pi-harness) — Opinionated configuration for the Pi coding agent, with remote and async workflows.
+- [pi-apps](https://github.com/aliou/pi-apps) — Attempt at a multi-platform harness for Pi, with relay server, dashboard, and native apps.
 
 ## Pi Extensions
 
