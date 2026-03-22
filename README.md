@@ -15,3 +15,9 @@ Hey, I'm Aliou. I'm a developer based in France. I run [General Dexterity](https
 - [@aliou/pi-toolchain](https://github.com/aliou/pi-toolchain) — Opinionated toolchain enforcement. Transparently rewrites commands to use preferred tools.
 - [@aliou/pi-dev-kit](https://github.com/aliou/pi-dev-kit) — Tools and commands for developing and updating Pi extensions.
 - [@aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) — Route Pi LLM providers through Tailscale Aperture.
+
+## Tools
+
+- [sesame](https://github.com/aliou/sesame) — BM25 full-text search over coding agent sessions.
+- [fastmail-cli](https://github.com/aliou/fastmail-cli) — CLI for FastMail via JMAP.
+- [linear-cli](https://github.com/aliou/linear-cli) — CLI for Linear via GraphQL API.
