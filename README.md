@@ -2,7 +2,7 @@ Hey, I'm Aliou. I'm a developer based in France. I run [General Dexterity](https
 
 I am available for select contracting work in Q2 and Q3 2026. Please reach out if you are interested — [contact+gh@general-dexterity.com](mailto:contact+gh@general-dexterity.com) · [book a call](https://gnldxt.link/new-event-gd)
 
-I contribute to [Pi](https://pi.dev) and build extensions and tools for it. If one of them saves you time, consider [sponsoring me on GitHub](https://github.com/sponsors/aliou), like Pi's creator [Mario Zechner](https://github.com/badlogic), and the fine people at [Modem](https://gnldxt.link/modem-gh), [Anomaly](https://gnldxt.link/anomaly), creators of [Opencode](https://gnldxt.link/opencode).
+I contribute to [Pi](https://pi.dev) and build extensions and tools for it. If one of them saves you time, consider [sponsoring me on GitHub](https://github.com/sponsors/aliou), like Pi's creator [Mario Zechner](https://github.com/badlogic), and the fine people at [Modem](https://gnldxt.link/modem-gh) and [Anomaly](https://gnldxt.link/anomaly), the creators of [Opencode](https://gnldxt.link/opencode).
 
 ## Pi
 
