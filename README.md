@@ -1,16 +1,14 @@
 Hey, I'm Aliou. I'm a developer based in France. I run [General Dexterity](https://general-dexterity.com?utm_source=github&utm_medium=profile&utm_campaign=homepage), my consulting practice. You can also [read about what I'm learning](https://aliou.me?utm_source=github&utm_medium=profile&utm_campaign=homepage) and follow [what I'm working on](https://twitter.com/aliouftw).
 
-I am available for select contracting work in Q2 and Q3 2026. Please reach out if you are interested — [contact+gh@general-dexterity.com](mailto:contact+gh@general-dexterity.com) · [book a call](https://gnldxt.link/new-event-gd)
+I am available for select contracting work in Q2 and Q3 2026. Please reach out if you are interested — [contact+gh@general-dexterity.com](mailto:contact+gh@general-dexterity.com) · [book a call](https://gnldxt.link/new-call-gh)
 
 I contribute to [Pi](https://pi.dev) and build extensions and tools for it. If one of them saves you time, consider [sponsoring me on GitHub](https://github.com/sponsors/aliou), like Pi's creator [Mario Zechner](https://github.com/badlogic), and the fine people at [Modem](https://gnldxt.link/modem-gh) and [Anomaly](https://gnldxt.link/anomaly), the creators of [Opencode](https://gnldxt.link/opencode).
 
-## Pi
+## Pi config & Extensions
 
 - [pi-harness](https://github.com/aliou/pi-harness) — Opinionated configuration for the Pi coding agent, with remote and async workflows.
-
-## Pi Extensions
-
 - [@aliou/pi-guardrails](https://github.com/aliou/pi-guardrails) ([npm](https://www.npmjs.com/package/@aliou/pi-guardrails)) — Security hooks for Pi. Prevents dangerous operations, protects env files, and gates destructive commands.
+  - [@aliou/sh](https://github.com/aliou/sh) — Shell parser/AST for POSIX, Bash, mksh, and zsh in TypeScript.
 - [@aliou/pi-processes](https://github.com/aliou/pi-processes) ([npm](https://www.npmjs.com/package/@aliou/pi-processes)) — Background process management for Pi. Start dev servers, watchers, and log tails without blocking the conversation.
 - [@aliou/pi-synthetic](https://github.com/aliou/pi-synthetic) ([npm](https://www.npmjs.com/package/@aliou/pi-synthetic)) — Pi provider for Synthetic, with open-source models through an OpenAI-compatible API.
 - [@aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) ([npm](https://www.npmjs.com/package/@aliou/pi-ts-aperture)) — Route Pi LLM providers through Tailscale Aperture.
@@ -28,15 +26,24 @@ I contribute to [Pi](https://pi.dev) and build extensions and tools for it. If o
 - [@aliou/pi-utils-settings](https://github.com/aliou/pi-utils-settings) ([npm](https://www.npmjs.com/package/@aliou/pi-utils-settings)) — Shared settings UI and config loader for Pi extensions.
 - [@aliou/pi-utils-ui](https://github.com/aliou/pi-utils-ui) ([npm](https://www.npmjs.com/package/@aliou/pi-utils-ui)) — Shared TUI abstractions for Pi extensions.
 
-## Tools & Libraries
+## Obsidian
+
+- [obsidian-flint](https://github.com/aliou/obsidian-flint) — AI agent inside your Obsidian vault. Reads, writes, searches, and queries Bases directly from the sidebar.
+- [obsdx](https://github.com/aliou/obsdx) — CLI for Obsidian that doesn't require the desktop app to be open. Query and analyze vaults headlessly.
+  - [@obsdx/base-ast](https://github.com/aliou/obsdx/tree/main/packages/base-ast) — AST utilities for Obsidian Bases.
+  - [@obsdx/base-engine](https://github.com/aliou/obsdx/tree/main/packages/base-engine) — Query engine for Obsidian Bases.
+- [vite-plugin-obsidian](https://github.com/aliou/vite-plugin-obsidian) — Vite plugin for building Obsidian plugins.
+
+## CLIs
 
 - [sesame](https://github.com/aliou/sesame) — BM25 full-text search over Pi sessions.
-- [sh](https://github.com/aliou/sh) — Shell parser/AST for POSIX, Bash, mksh, and zsh in TypeScript.
 - [linear-cli](https://github.com/aliou/linear-cli) — CLI for Linear via GraphQL API.
 - [fastmail-cli](https://github.com/aliou/fastmail-cli) — CLI for FastMail via JMAP.
+- [granola-cli](https://github.com/aliou/granola-cli) — CLI for Granola meeting notes.
 - [preview-markdown](https://github.com/aliou/preview-markdown) — Terminal markdown pager with syntax highlighting using [pi-tui](https://github.com/earendil-works/pi/tree/main/packages/tui).
 
 ## Neovim
 
-- [bats.vim](https://github.com/aliou/bats.vim) — Syntax files for Bats.
+- [nvim-pi](https://github.com/aliou/nvim-pi) — Bidirectional communication between Neovim and Pi.
 - [nvim-fim](https://github.com/aliou/nvim-fim) — FIM completion extension for Neovim with pluggable providers.
+- [bats.vim](https://github.com/aliou/bats.vim) — Syntax files for Bats.
