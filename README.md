@@ -10,16 +10,27 @@ I contribute to [Pi](https://pi.dev) and build extensions and tools for it. If o
 - [@aliou/pi-guardrails](https://github.com/aliou/pi-guardrails) ([npm](https://www.npmjs.com/package/@aliou/pi-guardrails)) — Security hooks for Pi. Prevents dangerous operations, protects env files, and gates destructive commands.
   - [@aliou/sh](https://github.com/aliou/sh) — Shell parser/AST for POSIX, Bash, mksh, and zsh in TypeScript.
 - [@aliou/pi-processes](https://github.com/aliou/pi-processes) ([npm](https://www.npmjs.com/package/@aliou/pi-processes)) — Background process management for Pi. Start dev servers, watchers, and log tails without blocking the conversation.
-- [@aliou/pi-synthetic](https://github.com/aliou/pi-synthetic) ([npm](https://www.npmjs.com/package/@aliou/pi-synthetic)) — Pi provider for Synthetic, with open-source models through an OpenAI-compatible API.
-- [@aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) ([npm](https://www.npmjs.com/package/@aliou/pi-ts-aperture)) — Route Pi LLM providers through Tailscale Aperture.
 - [@aliou/pi-linkup](https://github.com/aliou/pi-linkup) ([npm](https://www.npmjs.com/package/@aliou/pi-linkup)) — Web search, answer, and content fetching via the Linkup API.
 - [@aliou/pi-toolchain](https://github.com/aliou/pi-toolchain) ([npm](https://www.npmjs.com/package/@aliou/pi-toolchain)) — Opinionated toolchain enforcement. Transparently rewrites commands to use preferred tools.
 - [@aliou/pi-dev-kit](https://github.com/aliou/pi-dev-kit) ([npm](https://www.npmjs.com/package/@aliou/pi-dev-kit)) — Tools and commands for developing and updating Pi extensions.
-- [@aliou/pi-neuralwatt](https://github.com/aliou/pi-neuralwatt) ([npm](https://www.npmjs.com/package/@aliou/pi-neuralwatt)) — Neuralwatt inference API provider with energy transparency.
 - [@aliou/pi-linear](https://github.com/aliou/pi-linear) — Manage Linear issues, projects, and teams directly from Pi.
 - [@aliou/pi-playdate](https://github.com/aliou/pi-playdate) — Build, run, inspect, and deploy Playdate games in Lua and C from Pi.
 - [nvim-pi](https://github.com/aliou/nvim-pi) — Bidirectional communication between Neovim and Pi.
 - [pi-undercooked](https://github.com/aliou/pi-undercooked) — Experimental and proof-of-concept Pi extensions.
+
+## Pi Provider Extensions
+
+- [@aliou/pi-synthetic](https://github.com/aliou/pi-synthetic) ([npm](https://www.npmjs.com/package/@aliou/pi-synthetic)) — Pi provider for [Synthetic](https://gnldxt.link/ref-syn), with open-source models through an OpenAI-compatible API.
+- [@aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) ([npm](https://www.npmjs.com/package/@aliou/pi-ts-aperture)) — Route Pi LLM providers through [Tailscale Aperture](https://tailscale.com/docs/aperture?utm_source=aliou.me&utm_medium=github-profile).
+- [@aliou/pi-cohere](https://github.com/aliou/pi-cohere) ([npm](https://www.npmjs.com/package/@aliou/pi-cohere)) — Pi provider for [Cohere](https://cohere.com/?utm_source=aliou.me&utm_medium=github-profile) models through its OpenAI-compatible API.
+- [@aliou/pi-neuralwatt](https://github.com/aliou/pi-neuralwatt) ([npm](https://www.npmjs.com/package/@aliou/pi-neuralwatt)) — [Neuralwatt](https://gnldxt.link/ref-nw) inference API provider with energy transparency.
+- [@aliou/pi-edgee](https://github.com/aliou/pi-edgee) ([npm](https://www.npmjs.com/package/@aliou/pi-edgee)) — Pi provider for [Edgee](https://www.edgee.ai/?utm_source=aliou.me&utm_medium=github-profile)'s agent gateway, with model routing, compression, and observability.
+
+## Developer Tools
+
+- [senzu](https://github.com/aliou/senzu) ([npm](https://www.npmjs.com/package/senzu)) — Canonical color scheme generator for terminal and editor themes.
+- [keebs](https://github.com/aliou/keebs) — Personal QMK external userspace for keyboard keymaps, firmware patches, and flashing helpers.
+- [@aliou/biome-plugins](https://github.com/aliou/biome-plugins) ([npm](https://www.npmjs.com/package/@aliou/biome-plugins)) — Custom Biome lint rules written as GritQL plugins.
 
 ## Pi Utilities
 
