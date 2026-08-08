@@ -13,8 +13,6 @@ I contribute to [Pi](https://pi.dev) and build extensions and tools for it. If o
 - [@aliou/pi-linkup](https://github.com/aliou/pi-linkup) ([npm](https://www.npmjs.com/package/@aliou/pi-linkup)) — Web search, answer, and content fetching via the Linkup API.
 - [@aliou/pi-toolchain](https://github.com/aliou/pi-toolchain) ([npm](https://www.npmjs.com/package/@aliou/pi-toolchain)) — Opinionated toolchain enforcement. Transparently rewrites commands to use preferred tools.
 - [@aliou/pi-dev-kit](https://github.com/aliou/pi-dev-kit) ([npm](https://www.npmjs.com/package/@aliou/pi-dev-kit)) — Tools and commands for developing and updating Pi extensions.
-- [@aliou/pi-linear](https://github.com/aliou/pi-linear) — Manage Linear issues, projects, and teams directly from Pi.
-- [@aliou/pi-playdate](https://github.com/aliou/pi-playdate) — Build, run, inspect, and deploy Playdate games in Lua and C from Pi.
 - [nvim-pi](https://github.com/aliou/nvim-pi) — Bidirectional communication between Neovim and Pi.
 - [pi-undercooked](https://github.com/aliou/pi-undercooked) — Experimental and proof-of-concept Pi extensions.
 
